@@ -2,6 +2,7 @@
 import React from 'react';
 import { Modal, View, Text, TouchableOpacity, StyleSheet,Image } from 'react-native';
 
+
 const AccountLockedModal = ({ visible, closeModal }) => {
   return (
     <Modal
